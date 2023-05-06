@@ -17,7 +17,7 @@
   "author": "Rome Li",
   "license": "MIT",
   "dependencies": {
-    "java": "^0.11.1"
+    "java": "^0.13.0"
   },
   "devDependencies": {
     "typescript": "^3.5.3"
